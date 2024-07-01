@@ -4,7 +4,7 @@
 - 📫 How to reach me: 
 - 📩 hemendprincess@gmail.com
 - 📲 08038088649
-- 📝 www.linkedin.com/in/princess-hemen.875517278 
+- 📝 www.linkedin.com/in/princess-hemen 
 
 <!---
 PrincessHemen/PrincessHemen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
