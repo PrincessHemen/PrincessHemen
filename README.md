@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrincessHemen
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning the Front-End frameworks
+- 🌱 I’m always interested in continuous learning
 - 📫 How to reach me: 
 - 📩 hemendprincess@gmail.com
 - 📲 08038088649
