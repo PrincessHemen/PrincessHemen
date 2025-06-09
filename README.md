@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m always interested in continuous learning
 - 📫 How to reach me: 
-- 📩 hemendprincess@gmail.com
+- 📩 princesshemen@gmail.com
 - 📲 08038088649
 - 📝 www.linkedin.com/in/princess-hemen 
 
